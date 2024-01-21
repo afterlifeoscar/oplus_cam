@@ -1,0 +1,9 @@
+# Camera
+ro.camera.                          u:object_r:exported_system_prop:s0
+ro.oplus.camera.                    u:object_r:exported_system_prop:s0
+ro.oplus.system.camera.             u:object_r:exported_system_prop:s0
+ro.oplus.system.gallery.name        u:object_r:exported_system_prop:s0
+oppo.switch.video.beauty            u:object_r:exported_system_prop:s0
+persist.assert.panic.camera         u:object_r:exported_system_prop:s0
+persist.sys.camera.                 u:object_r:exported_system_prop:s0
+persist.ipe.debug                   u:object_r:exported_system_prop:s0
