@@ -565,6 +565,11 @@ public interface IWindowManager {
                 return null;
             }
         };
+        
+            @Override
+            public void onOverlayChanged() {
+            }
+        };
 
         public static IWindowManager asInterface(IBinder obj) {
             return new Proxy(android.view.IWindowManager.Stub.asInterface(obj));
