@@ -9,6 +9,6 @@ cert are exempted by default.
 Do NOT include any apps that are updatable via Play Store!
 -->
 <config>
-  <hidden-api-whitelisted-app package="com.oplus.camera"/>
+  <hidden-api-whitelisted-app package="com.oneplus.camera"/>
   <hidden-api-whitelisted-app package="com.oneplus.gallery"/>
 </config>
