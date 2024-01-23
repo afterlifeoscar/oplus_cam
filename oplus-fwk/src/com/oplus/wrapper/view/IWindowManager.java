@@ -570,9 +570,8 @@ public interface IWindowManager {
             }
             
             @Override
-            public void sendCustomAction(Intent intent) {
-        // Do nothing or provide a default behavior
-    }
+            public void sendCustomAction(Intent intent) {// Do nothing or provide a default behavior
+            }
 
         };
 
